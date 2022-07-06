@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ADE1550
-- 👀 I’m interested in Fore-end,Java,Python...
-- 🌱 I’m currently learning Android develoment.
-- 💞️ I’m looking to collaborate on a team in my company.
+- 👋 Hi, I’m @ADE150, who is a programming green hand but care about medicine.
+- 👀 I’m interested in Android,Java,Python...
+- 🌱 I’m currently learning Android development.
+- 💞️ I’m work at a simple company which develop website and software.
 - 📫 How to reach me:2970131569@qq.com
 
-English isn't good,wish talking is enough.
+My English isn't good, just wish talking is enough.
 
 Welcome to interrupt(contact) me!
 
